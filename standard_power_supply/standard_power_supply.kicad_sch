@@ -2235,7 +2235,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "+35V 0 -35V"
+		(property "Value" "+40V 0 -40V"
 			(at 205.74 64.7699 0)
 			(effects
 				(font
@@ -2450,7 +2450,7 @@
 				)
 			)
 		)
-		(property "Value" "25 - 0 - 25"
+		(property "Value" "30 - 0 - 30"
 			(at 88.9127 55.88 0)
 			(effects
 				(font
